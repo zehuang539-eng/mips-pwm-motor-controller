@@ -1,0 +1,15 @@
+# Simulation build products
+simv
+*.vcd
+*.out
+*.vvp
+
+# GTKWave
+*.gtkw
+*.fst
+
+# Editor / OS noise
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
